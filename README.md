@@ -13,8 +13,8 @@ bash
   php spark serve
 
 - Akun login
-bash
-  ##admin
-  username : admin
-  password : satuduatiga
-  
+```bash
+   ##admin
+   username : admin
+   password : satuduatiga
+'''
